@@ -4,7 +4,7 @@ A browser-based card game that transforms the classic hand game into a strategic
 
 This project was created as a programming work sample for an application for vocational training as a **Fachinformatiker für Anwendungsentwicklung (FIAE)** in Germany.
 
-![Gameplay Screenshot](screenshots/gameplay.png)
+(Screenshot will be added soon)
 
 ---
 
