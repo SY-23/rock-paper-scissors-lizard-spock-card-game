@@ -1,6 +1,3 @@
-
-Browser-based Rock–Paper–Scissors–Lizard–Spock card game built with vanilla JavaScript.
-
 # Rock–Paper–Scissors–Lizard–Spock Card Game
 
 A browser-based card game that transforms the classic hand game into a strategic card game.
@@ -91,10 +88,54 @@ Game flow:
 - HTML
 - CSS
 
-The project uses **no external frameworks or libraries**.
-
 ---
 
 ## Installation / Running the Game
 
 1. Clone the repository
+
+2. Open the project folder
+
+3. Open `index.html` in your browser
+
+The game runs entirely in the browser.
+
+---
+
+## Project Structure
+/project-folder
+
+index.html
+cardgame.css
+images
+maingame.js
+prelimgame.js
+ui.js
+
+The project uses **no external frameworks or libraries**.
+
+
+- **maingame.js** → main card game logic  
+- **prelimgame.js** → initiative duel (SPSLS)  
+- **ui.js** → UI handling and DOM manipulation  
+
+---
+
+## Screenshots
+
+*(Screenshots of the game will be added here.)*
+
+---
+
+## Possible Future Improvements
+
+- improved computer strategy
+- graphical redesign of the cards
+- sound effects
+- additional game statistics
+
+---
+
+## Author
+
+Serkan Yanilmaz
