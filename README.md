@@ -1,3 +1,6 @@
+Rock-Paper-Scissors-Lizard-Spock Card Game
+Browser-based Rock–Paper–Scissors–Lizard–Spock card game built with vanilla JavaScript.
+
 # Rock–Paper–Scissors–Lizard–Spock Card Game
 
 A browser-based card game that transforms the classic hand game into a strategic card game.
