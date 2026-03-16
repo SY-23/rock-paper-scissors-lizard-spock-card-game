@@ -93,11 +93,10 @@ Game flow:
 
 ## Installation / Running the Game
 
-1. Clone the repository
-
-2. Open the project folder
-
-3. Open `index.html` in your browser
+1. Clone the repository or download it as ZIP
+2. Open the project folder in a code editor such as VS Code
+3. Start a local web server (for example with the Live Server extension)
+4. Open the provided local URL in your browser
 
 The game runs entirely in the browser.
 
