@@ -124,8 +124,10 @@ The project uses **no external frameworks or libraries**.
 
 ## Screenshots
 
-*(Screenshots of the game will be added here.)*
-
+### Initiative Duel
+![Initiative Duel](screenshot2.png)
+### Gameboard
+![Gameboard](screenshot3.png)
 ---
 
 ## Possible Future Improvements
