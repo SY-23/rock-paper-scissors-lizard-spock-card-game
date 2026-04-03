@@ -1,8 +1,6 @@
 # Rock–Paper–Scissors–Lizard–Spock Card Game
 
-A browser-based card game that transforms the classic hand game into a strategic card game.
-
-This project was created as a programming work sample for an application for vocational training as a **Fachinformatiker für Anwendungsentwicklung (FIAE)** in Germany.
+A browser-based card game that transforms the classic hand game into a strategic card game. It serves as a technical work sample to demonstrate my programming foundations and my commitment to pursuing further professional education and training in software development and the IT sector.
 
 ### Gameplay
 ![Gameplay](screenshot1.png)
@@ -23,8 +21,6 @@ This project demonstrates fundamental software development concepts, in particul
 ## Project Description
 
 This project is a browser-based card game based on the extended hand game **Rock–Paper–Scissors–Lizard–Spock**, played by one player against a computer opponent.
-
-The project was developed as a programming work sample for an application for vocational training as a **Fachinformatiker für Anwendungsentwicklung (FIAE)** in Germany.
 
 The focus of the project is not on complex graphics or advanced game AI, but on implementing clearly structured game states, user interactions, and game logic in JavaScript.
 
